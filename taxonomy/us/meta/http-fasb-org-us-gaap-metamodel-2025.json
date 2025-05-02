@@ -1,0 +1,761 @@
+{
+    "http://fasb.org/us-gaap-metaModel/2025": [
+        {
+            "localName": "RecordedAtAmortizedCostMember",
+            "type": "Concept",
+            "label": "Amortized Cost [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "DerivativeInstrumentDomain",
+            "type": "Concept",
+            "label": "Derivative Instrument [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "DerivativeContractDomain",
+            "type": "Concept",
+            "label": "Derivative Contract [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "OperatingIntentTrait",
+            "type": "Concept",
+            "label": "Operating Intent [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RecordedAtAmortizedCostAfterAllowanceForCreditLossMember",
+            "type": "Concept",
+            "label": "Amortized Cost After Allowance for Credit Loss [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "TaxableRevenueMember",
+            "type": "Concept",
+            "label": "Taxable Revenue [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "VariableRateMember",
+            "type": "Concept",
+            "label": "Variable Rate [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ExpenseMember",
+            "type": "Concept",
+            "label": "Expense [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "DebtGuaranteeDomain",
+            "type": "Concept",
+            "label": "Debt Guarantee [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "TaxDeductibleNonExpenseItemMember",
+            "type": "Concept",
+            "label": "Tax Deductible Non-Expense Item [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "EquityMemberMM",
+            "type": "Concept",
+            "label": "Equity [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "InvestmentByOwnersMember",
+            "type": "Concept",
+            "label": "Investment by Owners [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "NonconvertibleMember",
+            "type": "Concept",
+            "label": "Nonconvertible [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "NoncurrentMember",
+            "type": "Concept",
+            "label": "Noncurrent [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "InterestRateTypeDomain",
+            "type": "Concept",
+            "label": "Interest Rate Type [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "DerecognizeMember",
+            "type": "Concept",
+            "label": "Derecognize [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "InterestRateTypeTrait",
+            "type": "Concept",
+            "label": "Interest Rate Type [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "GainMember",
+            "type": "Concept",
+            "label": "Gain [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ActivityTypeDomain",
+            "type": "Concept",
+            "label": "Activity Type [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ContraLiabilityMember",
+            "type": "Concept",
+            "label": "Contra Liability [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "NondeductibleTemporaryExpenseMember",
+            "type": "Concept",
+            "label": "Nondeductible Temporary Expense [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RecordedAtLowerOfCarryingValueOrFairValueLessCostToSell",
+            "type": "Concept",
+            "label": "Lower of Carrying Value or Fair Value, Less Cost to Sell [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ElementsOfFinancialStatementsDomain",
+            "type": "Concept",
+            "label": "Elements of Financial Statements [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "TaxCarryforwardMember",
+            "type": "Concept",
+            "label": "Tax Carryforward [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RevenueMember",
+            "type": "Concept",
+            "label": "Revenue [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "DebtGuaranteeTrait",
+            "type": "Concept",
+            "label": "Debt Guarantee [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "AccrualOrPayableDomain",
+            "type": "Concept",
+            "label": "Accrual Or Payable [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RecordedAtLowerOfCarryingValueOrFairValue",
+            "type": "Concept",
+            "label": "Lower of Amortized Cost or Fair Value [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "HedgingDomain",
+            "type": "Concept",
+            "label": "Hedging [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "LossMember",
+            "type": "Concept",
+            "label": "Loss [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "TaxContingencyMember",
+            "type": "Concept",
+            "label": "Tax Contingency [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ActivityTypeTrait",
+            "type": "Concept",
+            "label": "Activity Type [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "DerivativeContractTrait",
+            "type": "Concept",
+            "label": "Derivative Contract [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ReconcilingTaxItemMember",
+            "type": "Concept",
+            "label": "Reconciling Tax Item [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RecordedValueTrait",
+            "type": "Concept",
+            "label": "Reported or Recorded Value [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "NonoperatingMember",
+            "type": "Concept",
+            "label": "Nonoperating [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "EstimatedFutureExpenseRevenueTrait",
+            "type": "Concept",
+            "label": "Estimated Future Expense Revenue [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RelatedPartyTrait",
+            "type": "Concept",
+            "label": "Related Party [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "CreditStructureDomain",
+            "type": "Concept",
+            "label": "Credit Structure [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "OperatingMember",
+            "type": "Concept",
+            "label": "Operating [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ConvertibilityDomain",
+            "type": "Concept",
+            "label": "Convertibility [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "LiquidityDomain",
+            "type": "Concept",
+            "label": "Liquidity [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RestrictionTrait",
+            "type": "Concept",
+            "label": "Restriction [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RecognizeMember",
+            "type": "Concept",
+            "label": "Recognize [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "NondeductibleExpenseMember",
+            "type": "Concept",
+            "label": "Nondeductible Expense [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RestrictedMember",
+            "type": "Concept",
+            "label": "Restricted [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "TaxSettlementMember",
+            "type": "Concept",
+            "label": "Tax Settlement [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "CurrentMember",
+            "type": "Concept",
+            "label": "Current [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ReportedAtFairValue",
+            "type": "Concept",
+            "label": "Fair Value [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "Remeasurement",
+            "type": "Concept",
+            "label": "Remeasurement [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "FixedRateMember",
+            "type": "Concept",
+            "label": "Fixed Rate [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "PriorityDomain",
+            "type": "Concept",
+            "label": "Priority [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "UseTrait",
+            "type": "Concept",
+            "label": "Use [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "PriorityTrait",
+            "type": "Concept",
+            "label": "Priority [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "OperatingNonoperatingDomain",
+            "type": "Concept",
+            "label": "Operating Nonoperating [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "SeniorSubordinatedDebtMember",
+            "type": "Concept",
+            "label": "Senior Subordinated Debt [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "TermLoanMember",
+            "type": "Concept",
+            "label": "Term Loan [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "CreditStructureTrait",
+            "type": "Concept",
+            "label": "Credit Structure [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ConvertibilityTrait",
+            "type": "Concept",
+            "label": "Convertibility [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "Allocation",
+            "type": "Concept",
+            "label": "Allocation [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "TaxCreditMember",
+            "type": "Concept",
+            "label": "Tax Credit [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "Reclassification",
+            "type": "Concept",
+            "label": "Reclassification [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "NondeductiblePermanentExpenseMember",
+            "type": "Concept",
+            "label": "Nondeductible Permanent Expense [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "EstimatedFutureExpenseRevenueDomain",
+            "type": "Concept",
+            "label": "Estimated Future Expense Revenue [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "TemporaryEquityMember",
+            "type": "Concept",
+            "label": "Temporary Equity [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "TaxComponentsDomain",
+            "type": "Concept",
+            "label": "Tax Components [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ConvertibleMember",
+            "type": "Concept",
+            "label": "Convertible [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "OperatingNonoperatingTrait",
+            "type": "Concept",
+            "label": "Operating Nonoperating [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "UseDomain",
+            "type": "Concept",
+            "label": "Use [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ElementsOfFinancialStatementsTrait",
+            "type": "Concept",
+            "label": "Elements of Financial Statements [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "DistributionToOwnersMember",
+            "type": "Concept",
+            "label": "Distribution to Owners [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "LiquidityTrait",
+            "type": "Concept",
+            "label": "Liquidity [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RevolvingLoanMember",
+            "type": "Concept",
+            "label": "Revolving Loan [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "OperatingActivity",
+            "type": "Concept",
+            "label": "Operating Activity [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "AccrualMember",
+            "type": "Concept",
+            "label": "Accrual [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ContraEquityMember",
+            "type": "Concept",
+            "label": "Contra Equity [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RecordedAsEstimate",
+            "type": "Concept",
+            "label": "Estimate [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "ContraAssetMember",
+            "type": "Concept",
+            "label": "Contra Asset [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "PayableMember",
+            "type": "Concept",
+            "label": "Payable [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "HedgingTrait",
+            "type": "Concept",
+            "label": "Hedging [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RecordedValueDomain",
+            "type": "Concept",
+            "label": "Reported or Recorded Value [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "FinancingActivity",
+            "type": "Concept",
+            "label": "Financing Activity [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RecordedAtHistoricalCost",
+            "type": "Concept",
+            "label": "Historical Cost [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "AccrualOrPayableTrait",
+            "type": "Concept",
+            "label": "Accrual Or Payable [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "TaxComponentsTrait",
+            "type": "Concept",
+            "label": "Tax Components [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        },
+        {
+            "localName": "NonTaxableRevenueMember",
+            "type": "Concept",
+            "label": "Non-Taxable Revenue [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "UnrestrictedMember",
+            "type": "Concept",
+            "label": "Unrestricted [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "OptionMemberMM",
+            "type": "Concept",
+            "label": "Option [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "TaxDeductibleExpenseMember",
+            "type": "Concept",
+            "label": "Tax Deductible Expense [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "trait",
+            "type": "Type",
+            "label": "trait"
+        },
+        {
+            "localName": "EstimatedFutureExpenseRevenueMember",
+            "type": "Concept",
+            "label": "Estimated Future Expense Revenue [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "RestrictionDomain",
+            "type": "Concept",
+            "label": "Restriction [Domain]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "MetricMember",
+            "type": "Concept",
+            "label": "Metric [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "InvestingActivity",
+            "type": "Concept",
+            "label": "Investing Activity [Member]",
+            "isAbstract": "true",
+            "dataType": "dtr-types:domainItemType",
+            "periodType": "duration"
+        },
+        {
+            "localName": "DerivativeInstrumentTrait",
+            "type": "Concept",
+            "label": "Derivative Instrument [Trait]",
+            "isAbstract": "true",
+            "dataType": "us-gaap-metaModel:trait",
+            "periodType": "duration"
+        }
+    ]
+}

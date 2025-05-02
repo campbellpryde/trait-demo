@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30043 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 0.63 secs at 2025-05-02T14:58:27 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="multi-trait-2" level="info">
+ <message filing_url="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS" severity="info" cid="4325506272" edgarMessageNumericId="60000000">[multi-trait-2] set(set(Generally involve producing and delivering goods and providing services. Cash flows from operating activities are generally the cash effects of transactions and other events that enter into the determination of net income., Operating Activity [Member]), set(Fair Value [Member], Reported or recorded amount at which an asset (or liability) could be bought (or incurred) or sold (or settled) in a current transaction between willing parties, that is, other than in a forced or liquidation sale.), set(Current [Member], Expected to be settled, realized or consumed within a year or the normal operating cycle, whichever is longer.), set(Asset recognized for present right to economic benefit., Assets [Member])) - </message></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 4.04 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30043 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 0.58 secs at 2025-05-02T15:06:21 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 0.95 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30043 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 0.59 secs at 2025-05-02T15:11:45 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="multi-trait-2" level="info">
+ <message filing_url="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS" severity="info" cid="4480577760" edgarMessageNumericId="60000000">[multi-trait-2] list(list(Asset recognized for present right to economic benefit., http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary.), list(Assets [Member], http://www.xbrl.org/2003/role/label - Standard label for a Concept.), list(Generally involve producing and delivering goods and providing services. Cash flows from operating activities are generally the cash effects of transactions and other events that enter into the determination of net income., http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary.), list(Operating Activity [Member], http://www.xbrl.org/2003/role/label - Standard label for a Concept.), list(Current [Member], http://www.xbrl.org/2003/role/label - Standard label for a Concept.), list(Expected to be settled, realized or consumed within a year or the normal operating cycle, whichever is longer., http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary.), list(Reported or recorded amount at which an asset (or liability) could be bought (or incurred) or sold (or settled) in a current transaction between willing parties, that is, other than in a forced or liquidation sale., http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary.), list(Fair Value [Member], http://www.xbrl.org/2003/role/label - Standard label for a Concept.)) - </message></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 4.00 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30043 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 0.63 secs at 2025-05-02T15:12:45 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="multi-trait-2" level="info">
+ <message filing_url="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS" severity="info" cid="4387516640" edgarMessageNumericId="60000000">[multi-trait-2] list(list(us-gaap-metaModel:CurrentMember, http://www.xbrl.org/2003/role/label - Standard label for a Concept., Current [Member], http://www.xbrl.org/2003/role/label - Standard label for a Concept.), list(us-gaap-metaModel:CurrentMember, http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary., Expected to be settled, realized or consumed within a year or the normal operating cycle, whichever is longer., http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary.), list(us-gaap-metaModel:OperatingActivity, http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary., Generally involve producing and delivering goods and providing services. Cash flows from operating activities are generally the cash effects of transactions and other events that enter into the determination of net income., http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary.), list(us-gaap-metaModel:OperatingActivity, http://www.xbrl.org/2003/role/label - Standard label for a Concept., Operating Activity [Member], http://www.xbrl.org/2003/role/label - Standard label for a Concept.), list(us-gaap-metaModel:ReportedAtFairValue, http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary., Reported or recorded amount at which an asset (or liability) could be bought (or incurred) or sold (or settled) in a current transaction between willing parties, that is, other than in a forced or liquidation sale., http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary.), list(us-gaap-metaModel:ReportedAtFairValue, http://www.xbrl.org/2003/role/label - Standard label for a Concept., Fair Value [Member], http://www.xbrl.org/2003/role/label - Standard label for a Concept.), list(us-gaap:AssetsMember, http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary., Asset recognized for present right to economic benefit., http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary.), list(us-gaap:AssetsMember, http://www.xbrl.org/2003/role/label - Standard label for a Concept., Assets [Member], http://www.xbrl.org/2003/role/label - Standard label for a Concept.)) - </message></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 4.05 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30043 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 0.63 secs at 2025-05-02T15:16:46 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="multi-trait-2" level="info">
+ <message filing_url="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS" severity="info" cid="4411129056" edgarMessageNumericId="60000000">[multi-trait-2] list(list(us-gaap-metaModel:ReportedAtFairValue, label, Fair Value [Member], http://www.xbrl.org/2003/role/label - Standard label for a Concept.), list(us-gaap-metaModel:ReportedAtFairValue, documentation, Reported or recorded amount at which an asset (or liability) could be bought (or incurred) or sold (or settled) in a current transaction between willing parties, that is, other than in a forced or liquidation sale., http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary.), list(us-gaap-metaModel:OperatingActivity, documentation, Generally involve producing and delivering goods and providing services. Cash flows from operating activities are generally the cash effects of transactions and other events that enter into the determination of net income., http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary.), list(us-gaap-metaModel:OperatingActivity, label, Operating Activity [Member], http://www.xbrl.org/2003/role/label - Standard label for a Concept.), list(us-gaap-metaModel:CurrentMember, label, Current [Member], http://www.xbrl.org/2003/role/label - Standard label for a Concept.), list(us-gaap-metaModel:CurrentMember, documentation, Expected to be settled, realized or consumed within a year or the normal operating cycle, whichever is longer., http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary.), list(us-gaap:AssetsMember, documentation, Asset recognized for present right to economic benefit., http://www.xbrl.org/2003/role/documentation - Documentation of a Concept, providing an explanation of its meaning and its appropriate usage and any other documentation deemed necessary.), list(us-gaap:AssetsMember, label, Assets [Member], http://www.xbrl.org/2003/role/label - Standard label for a Concept.)) - </message></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 4.02 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30043 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 0.60 secs at 2025-05-02T15:21:30 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="multi-trait-2" level="info">
+ <message filing_url="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS" severity="info" cid="4388220576" edgarMessageNumericId="60000000">[multi-trait-2] list(list(us-gaap-metaModel:CurrentMember, documentation, Expected to be settled, realized or consumed within a year or the normal operating cycle, whichever is longer.), list(us-gaap-metaModel:CurrentMember, label, Current [Member]), list(us-gaap:AssetsMember, documentation, Asset recognized for present right to economic benefit.), list(us-gaap:AssetsMember, label, Assets [Member])) - </message></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 4.08 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30043 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 0.58 secs at 2025-05-02T15:22:46 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="multi-trait-2" level="info">
+ <message filing_url="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS" severity="info" cid="4563800992" edgarMessageNumericId="60000000">[multi-trait-2] list(list(us-gaap-metaModel:CurrentMember, documentation, Expected to be settled, realized or consumed within a year or the normal operating cycle, whichever is longer.), list(us-gaap-metaModel:CurrentMember, label, Current [Member]), list(us-gaap:AssetsMember, label, Assets [Member]), list(us-gaap:AssetsMember, documentation, Asset recognized for present right to economic benefit.)) - </message></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 3.99 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30043 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 0.61 secs at 2025-05-02T15:26:34 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="xule:error" level="error">
+ <message cid="4449256800" edgarMessageNumericId="60000000">[xule:error] rule traits_of_concept: Rule: traits_of_concept - Property 'name' is not a property of a 'qname'. - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 3.85 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30043 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 0.69 secs at 2025-05-02T15:27:23 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="traits_of_concept" level="info">
+ <message filing_url="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS" severity="info" cid="4464185504" edgarMessageNumericId="60000000">[traits_of_concept] list(list(us-gaap:AssetsMember, list(label, Assets [Member]), list(documentation, Asset recognized for present right to economic benefit.)), list(us-gaap-metaModel:CurrentMember, list(label, Current [Member]), list(documentation, Expected to be settled, realized or consumed within a year or the normal operating cycle, whichever is longer.))) - </message></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 4.04 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30043 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 0.59 secs at 2025-05-02T15:29:02 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="xule:error" level="error">
+ <message cid="4353011360" edgarMessageNumericId="60000000">[xule:error] rule concepts_with_trait: Rule: concepts_with_trait - The argument to the 'concepts-by-trait' property must be a concept or a qname, found string. - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 4.05 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30043 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 0.66 secs at 2025-05-02T15:30:02 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="concepts_with_trait" level="info">
+ <message filing_url="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS" severity="info" cid="4381821984" edgarMessageNumericId="60000000">[concepts_with_trait] set(us-gaap:TangibleAssetImpairmentCharges, us-gaap:LossOnContractTermination, us-gaap:LossOnContractTerminationForDefault, us-gaap:GoodwillImpairmentLossNetOfTax, us-gaap:AvailableForSaleDebtSecuritiesGrossUnrealizedLoss, us-gaap:CapitalizedContractCostImpairmentLoss, us-gaap:DebtSecuritiesTradingUnrealizedLoss, us-gaap:DebtSecuritiesTradingRealizedLoss, us-gaap:DebtSecuritiesAvailableForSaleRealizedLoss, us-gaap:DebtSecuritiesAvailableForSaleTransferToTradingLoss, us-gaap:EquitySecuritiesWithoutReadilyDeterminableFairValueImpairmentLossAnnualAmount, us-gaap:EquitySecuritiesFvNiRealizedLoss, us-gaap:EquitySecuritiesFvNiUnrealizedLoss, us-gaap:EquitySecuritiesWithoutReadilyDeterminableFairValueDownwardPriceAdjustmentAnnualAmount, us-gaap:FilmMonetizedOnItsOwnAndFilmGroupImpairment, us-gaap:LitigationSettlementLoss, us-gaap:LossOnDerivativeInstrumentsPretax, us-gaap:DebtorReorganizationItemsImpairmentLoss, us-gaap:DerivativeLossOnDerivative, us-gaap:EmbeddedDerivativeLossOnEmbeddedDerivative, us-gaap:ImpairedAssetsToBeDisposedOfByMethodOtherThanSaleAmountOfImpairmentLoss, us-gaap:ImpairmentChargeOnReclassifiedAssets, us-gaap:LossFromComponentsExcludedFromAssessmentOfCashFlowHedgeEffectiveness, us-gaap:LossFromComponentsExcludedFromAssessmentOfFairValueHedgeEffectiveness, us-gaap:LossFromHedgedFirmCommitmentNotQualifyingAsFairValueHedge, us-gaap:LossOnCashFlowHedgeIneffectiveness, us-gaap:LossOnDiscontinuationOfCashFlowHedgeDueToForecastedTransactionProbableOfNotOccurring, us-gaap:LossOnFairValueHedgeIneffectiveness, us-gaap:UnrealizedLossOnForeignCurrencyDerivativesBeforeTax, us-gaap:UnrealizedLossOnPriceRiskCashFlowDerivativesBeforeTax, us-gaap:LossRecognizedOnAssetsTransferredToSeparateAccountGross, us-gaap:ProductionRelatedImpairmentsOrCharges, us-gaap:ResultsOfOperationsImpairmentOfOilAndGasProperties) - </message></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 4.01 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>

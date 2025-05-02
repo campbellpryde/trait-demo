@@ -17,6 +17,12 @@ constant $CONCEPT = us-gaap:CashAndCashEquivalentsAtCarryingValue
 
 constant $TRAIT = us-gaap-metaModel:LossMember
 
+constant $TRAIT_DOMAIN =  navigate 'http://www.xbrl.org/2021/arcrole/trait-domain' children taxonomy $META returns target
+
+constant $TRAIT_VALUES = list(for $domain in $TRAIT_DOMAIN
+                            $traits = navigate domain-member descendants from $domain taxonomy $META returns target
+                            $traits)
+
 output concepts_with_trait
 
 $META.concepts-by-trait(list($TRAIT.to-qname))
@@ -31,4 +37,6 @@ list(for $trait in ($META.concept($CONCEPT).traits)
                 )
                 )
 
+output list_traits
 
+sum($TRAIT_VALUES)

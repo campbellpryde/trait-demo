@@ -40,3 +40,10 @@ list(for $trait in ($META.concept($CONCEPT).traits)
 output list_traits
 
 sum($TRAIT_VALUES)
+
+output list_monetary_concepts
+
+filter $META.concepts where $item.data-type.name == xbrli:monetaryItemType returns $item.name
+
+file-location '../concepts.csv'
+file-content $rule-value.to-list.to-csv

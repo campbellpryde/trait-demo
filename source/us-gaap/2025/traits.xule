@@ -52,3 +52,19 @@ file-content $rule-value.to-list.to-csv
 output inflows_to_stock
 
 navigate 'http://www.xbrl.org/2021/arcrole/instant-inflow' descendants from $CONCEPT.to-qname taxonomy $META returns set(target-name)
+
+
+output outflows_from_stock
+
+navigate 'http://www.xbrl.org/2021/arcrole/instant-outflow' descendants from $CONCEPT.to-qname taxonomy $META returns set(target-name)
+
+
+output agg_other
+
+/** Example us-gaap:LiabilitiesNoncurrent **/
+
+navigate 'http://www.xbrl.org/2021/arcrole/aggregate-other' descendants from $CONCEPT.to-qname taxonomy $META returns list (target-name)
+
+output instant_contra
+
+navigate 'http://www.xbrl.org/2021/arcrole/instant-contra' children from $CONCEPT.to-qname taxonomy $META returns list (target-name)

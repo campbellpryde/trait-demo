@@ -13,9 +13,9 @@ output-attribute file-append
 
 /** CONSTANTS **/ 
 
-constant $CONCEPT = us-gaap:CashAndCashEquivalentsAtCarryingValue
+constant $CONCEPT = "us-gaap:CashAndCashEquivalentsAtCarryingValue"
 
-constant $TRAIT = us-gaap-metaModel:LossMember
+constant $TRAIT = "us-gaap-metaModel:LossMember"
 
 constant $TRAIT_DOMAIN =  navigate 'http://www.xbrl.org/2021/arcrole/trait-domain' children taxonomy $META returns target
 
@@ -30,7 +30,7 @@ $META.concepts-by-trait(list($TRAIT.to-qname))
 
 output traits_of_concept
 
-list(for $trait in ($META.concept($CONCEPT).traits)
+list(for $trait in ($META.concept($CONCEPT.to-qname).traits)
                 list($trait.name,
                 for $label in $trait.all-labels
                 list($label.role.uri.split('\/').last, $label.text)
@@ -47,3 +47,8 @@ filter $META.concepts where $item.data-type.name == xbrli:monetaryItemType retur
 
 file-location '../concepts.csv'
 file-content $rule-value.to-list.to-csv
+
+
+output inflows_to_stock
+
+navigate 'http://www.xbrl.org/2021/arcrole/instant-inflow' descendants from $CONCEPT.to-qname taxonomy $META returns set(target-name)

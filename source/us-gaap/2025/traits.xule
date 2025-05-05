@@ -68,3 +68,8 @@ navigate 'http://www.xbrl.org/2021/arcrole/aggregate-other' descendants from $CO
 output instant_contra
 
 navigate 'http://www.xbrl.org/2021/arcrole/instant-contra' children from $CONCEPT.to-qname taxonomy $META returns list (target-name)
+
+
+output instant_accrual
+
+navigate 'http://www.xbrl.org/2021/arcrole/instant-accrual' children from $CONCEPT.to-qname taxonomy $META returns list (target-name)

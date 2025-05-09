@@ -35,7 +35,7 @@ list(for $trait in ($META.concept($CONCEPT.to-qname).traits)
                 for $label in $trait.all-labels
                 list($label.role.uri.split('\/').last, $label.text)
                 )
-                )
+                ).to-json
 
 output list_traits
 

@@ -390,3 +390,56 @@
  <message>[info] validated in 3.87 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
  <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
 </log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30048 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 1.06 secs at 2025-05-09T16:38:22 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="xule.buildIndexTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.buildIndexTime] Index build time 0:00:00.050028. - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleDebug" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleDebug] Processing: concepts_with_trait - 16:38:24.472822 - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleDebug" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleDebug] /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.otherTaxonomyLoadTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.otherTaxonomyLoadTime] Load taxonomy time 0:00:03.072018 from 'https://xbrl.fasb.org/us-gaap/2025/meta/us-gaap-metaModel-entire-2025.xsd' - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="concepts_with_trait" level="info">
+ <message filing_url="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS" severity="info" cid="4522231136" edgarMessageNumericId="60000000">[concepts_with_trait] set(us-gaap:TangibleAssetImpairmentCharges, us-gaap:LossOnContractTermination, us-gaap:LossOnContractTerminationForDefault, us-gaap:GoodwillImpairmentLossNetOfTax, us-gaap:AvailableForSaleDebtSecuritiesGrossUnrealizedLoss, us-gaap:CapitalizedContractCostImpairmentLoss, us-gaap:DebtSecuritiesTradingUnrealizedLoss, us-gaap:DebtSecuritiesTradingRealizedLoss, us-gaap:DebtSecuritiesAvailableForSaleRealizedLoss, us-gaap:DebtSecuritiesAvailableForSaleTransferToTradingLoss, us-gaap:EquitySecuritiesWithoutReadilyDeterminableFairValueImpairmentLossAnnualAmount, us-gaap:EquitySecuritiesFvNiRealizedLoss, us-gaap:EquitySecuritiesFvNiUnrealizedLoss, us-gaap:EquitySecuritiesWithoutReadilyDeterminableFairValueDownwardPriceAdjustmentAnnualAmount, us-gaap:FilmMonetizedOnItsOwnAndFilmGroupImpairment, us-gaap:LitigationSettlementLoss, us-gaap:LossOnDerivativeInstrumentsPretax, us-gaap:DebtorReorganizationItemsImpairmentLoss, us-gaap:DerivativeLossOnDerivative, us-gaap:EmbeddedDerivativeLossOnEmbeddedDerivative, us-gaap:ImpairedAssetsToBeDisposedOfByMethodOtherThanSaleAmountOfImpairmentLoss, us-gaap:ImpairmentChargeOnReclassifiedAssets, us-gaap:LossFromComponentsExcludedFromAssessmentOfCashFlowHedgeEffectiveness, us-gaap:LossFromComponentsExcludedFromAssessmentOfFairValueHedgeEffectiveness, us-gaap:LossFromHedgedFirmCommitmentNotQualifyingAsFairValueHedge, us-gaap:LossOnCashFlowHedgeIneffectiveness, us-gaap:LossOnDiscontinuationOfCashFlowHedgeDueToForecastedTransactionProbableOfNotOccurring, us-gaap:LossOnFairValueHedgeIneffectiveness, us-gaap:UnrealizedLossOnForeignCurrencyDerivativesBeforeTax, us-gaap:UnrealizedLossOnPriceRiskCashFlowDerivativesBeforeTax, us-gaap:LossRecognizedOnAssetsTransferredToSeparateAccountGross, us-gaap:ProductionRelatedImpairmentsOrCharges, us-gaap:ResultsOfOperationsImpairmentOfOilAndGasProperties) - </message></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] concepts_with_trait time took: 3.34823 - 16:38:27.821217  - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] Total number of rules processed: 1 - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] Number of rules over 0.0s: 1 - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] Rule concepts_with_trait end. Took 0:00:03.348230 - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] Total time to process: 0:00:03.399067. - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 4.39 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>

@@ -30,12 +30,7 @@ $META.concepts-by-trait(list($TRAIT.to-qname))
 
 output traits_of_concept
 
-list(for $trait in ($META.concept($CONCEPT.to-qname).traits)
-                list($trait.name,
-                for $label in $trait.all-labels
-                list($label.role.uri.split('\/').last, $label.text)
-                )
-                ).to-json
+$META.concept($CONCEPT.to-qname).traits
 
 output list_traits
 

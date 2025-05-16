@@ -655,3 +655,109 @@
  <message>[info] validated in 4.20 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
  <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
 </log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30048 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 0.60 secs at 2025-05-11T14:24:21 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="xule.buildIndexTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.buildIndexTime] Index build time 0:00:00.053542. - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleDebug" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleDebug] Processing: traits_of_concept - 14:24:23.426580 - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleDebug" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleDebug] /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.otherTaxonomyLoadTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.otherTaxonomyLoadTime] Load taxonomy time 0:00:02.922902 from 'https://xbrl.fasb.org/us-gaap/2025/meta/us-gaap-metaModel-entire-2025.xsd' - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="traits_of_concept" level="info">
+ <message filing_url="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS" severity="info" cid="4528193264" edgarMessageNumericId="60000000">[traits_of_concept] [[&quot;{http://fasb.org/us-gaap-metaModel/2025}CurrentMember&quot;, [&quot;documentation&quot;, &quot;Expected to be settled, realized or consumed within a year or the normal operating cycle, whichever is longer.&quot;], [&quot;label&quot;, &quot;Current [Member]&quot;]], [&quot;{http://fasb.org/us-gaap/2025}AssetsMember&quot;, [&quot;documentation&quot;, &quot;Asset recognized for present right to economic benefit.&quot;], [&quot;label&quot;, &quot;Assets [Member]&quot;]]] - </message></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] traits_of_concept time took: 3.242691 - 14:24:26.669346  - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] Total number of rules processed: 1 - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] Number of rules over 0.0s: 1 - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] Rule traits_of_concept end. Took 0:00:03.242691 - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] Total time to process: 0:00:03.296718. - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 4.45 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>
+<?xml version="1.0" encoding="utf-8"?>
+<log>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in XBRL rule processor (xule) successful, version Check version using Tools->Xule->Version on the GUI or --xule-version on the command line. - xule </message>
+ <ref href="xule"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in SEC Inline Transforms successful, version 19.2. - transforms/SEC </message>
+ <ref href="transforms/SEC"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Validate EFM successful, version 1.23.4. - validate/EFM </message>
+ <ref href="validate/EFM"/></entry>
+<entry code="info" level="info">
+ <message>[info] Activation of plug-in Inline XBRL Document Set successful, version 1.1. - inlineXbrlDocumentSet </message>
+ <ref href="inlineXbrlDocumentSet"/></entry>
+<entry code="info" level="info">
+ <message>[info] Xule version: 3.0.30048 - </message>
+ <ref href=""/></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 10.24 secs at 2025-05-16T12:15:37 - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+<entry code="xule.buildIndexTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.buildIndexTime] Index build time 0:00:00.044422. - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleDebug" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleDebug] Processing: traits_of_concept - 12:15:48.808095 - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleDebug" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleDebug] /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.otherTaxonomyLoadTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.otherTaxonomyLoadTime] Load taxonomy time 0:00:05.384593 from 'https://xbrl.fasb.org/us-gaap/2025/meta/us-gaap-metaModel-entire-2025.xsd' - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="traits_of_concept" level="info">
+ <message filing_url="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS" severity="info" cid="4486788016" edgarMessageNumericId="60000000">[traits_of_concept] set(us-gaap:AssetsMember, us-gaap-metaModel:CurrentMember, us-gaap-metaModel:OperatingActivity, us-gaap-metaModel:ReportedAtFairValue) - </message></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] traits_of_concept time took: 5.421561 - 12:15:54.229747  - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] Total number of rules processed: 1 - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] Number of rules over 0.0s: 1 - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] Rule traits_of_concept end. Took 0:00:05.421561 - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="xule.ruleEvalTime" level="debug">
+ <message edgarMessageNumericId="60000000">[xule.ruleEvalTime] Total time to process: 0:00:05.466514. - IXDS sev-20241231.htm </message>
+ <ref href="IXDS sev-20241231.htm"/></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 6.41 secs - /Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS </message>
+ <ref href="/Users/campbellpryde/Downloads/sev-20241231.zip/_IXDS#?#/Users/campbellpryde/Downloads/sev-20241231.zip/sev-20241231.htm"/></entry>
+</log>

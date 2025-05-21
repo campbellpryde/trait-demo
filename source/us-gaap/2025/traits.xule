@@ -25,12 +25,26 @@ constant $TRAIT_VALUES = list(for $domain in $TRAIT_DOMAIN
 
 output concepts_with_trait
 
-$META.concepts-by-trait(list($TRAIT.to-qname))
+/**$META.concepts-by-trait(list($TRAIT.to-qname))**/
+
+list(for $concept in ($META.concepts-by-trait(list($TRAIT.to-qname)))
+                list($concept.name,
+                for $label in $concept.all-labels
+                list($label.role.uri.split('\/').last, $label.text)
+                )
+                ).to-json
 
 
 output traits_of_concept
 
-$META.concept($CONCEPT.to-qname).traits
+/**$META.concept($CONCEPT.to-qname).traits**/
+
+list(for $trait in ($META.concept($CONCEPT.to-qname).traits)
+                list($trait.name,
+                for $label in $trait.all-labels
+                list($label.role.uri.split('\/').last, $label.text)
+                )
+                ).to-json
 
 output list_traits
 
